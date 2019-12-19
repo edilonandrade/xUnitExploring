@@ -1,0 +1,10 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\edilon.andrade_ext\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\edilon.andrade_ext\\.nuget\\packages",
+      "C:\\Microsoft\\Xamarin\\NuGet",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+    ]
+  }
+}

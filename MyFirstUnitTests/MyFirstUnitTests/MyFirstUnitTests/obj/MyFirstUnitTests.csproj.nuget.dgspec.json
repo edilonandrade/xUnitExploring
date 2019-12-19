@@ -1,0 +1,75 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj",
+        "projectName": "MyFirstUnitTests",
+        "projectPath": "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj",
+        "packagesPath": "C:\\Users\\edilon.andrade_ext\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Microsoft\\Xamarin\\NuGet\\",
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\edilon.andrade_ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://artifacts-vip.stone.com.br:8443/artifactory/api/nuget/nuget-prod": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
