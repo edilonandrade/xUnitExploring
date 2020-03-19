@@ -1,0 +1,14 @@
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.deps.json
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.json
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.runtimeconfig.dev.json
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.pdb
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\bin\Debug\netcoreapp2.2\Alura.LeilaoOnline.Core.pdb
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.AssemblyInfo.cs
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.csproj.CopyComplete
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.ConsoleApp\obj\Debug\netcoreapp2.2\Alura.LeilaoOnline.ConsoleApp.pdb
