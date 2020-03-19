@@ -1716,7 +1716,7 @@
       ]
     },
     "Microsoft.CSharp/4.0.1": {
-      "sha512": "17h8b5mXa87XYKrrVqdgZ38JefSUqLChUQpXgSnpzsM0nDOhE40FTeNWOJ/YmySGV6tG6T8+hjz6vxbknHJr6A==",
+      "sha512": "/g2ra+w6cm7RQwniYVMIumB9OUMGgHs2uLoDpqYM7x5bZKDx0sf5hyw7XTbS3zjVNjQf0u2XwQzLg/CEhGHFsA==",
       "type": "package",
       "path": "microsoft.csharp/4.0.1",
       "files": [
@@ -3469,7 +3469,7 @@
       ]
     },
     "System.Dynamic.Runtime/4.0.11": {
-      "sha512": "db34f6LHYM0U0JpE+sOmjar27BnqTVkbLJhgfwMpTdgTigG/Hna3m2MYVwnFzGGKnEJk2UXFuoVTr8WUbU91/A==",
+      "sha512": "CM4kWRxhrRegBSKfez2evyLKPsVtLuIXd1+EpULuVGQ3fwzuvRrX/MeJnTQ8ElJkzD5kUMmjqJSH2vGXPobtTw==",
       "type": "package",
       "path": "system.dynamic.runtime/4.0.11",
       "files": [
@@ -4024,7 +4024,7 @@
       ]
     },
     "System.Private.DataContractSerialization/4.1.1": {
-      "sha512": "lcqFBUaCZxPiUkA4dlSOoPZGtZsAuuElH2XHgLwGLxd7ZozWetV5yiz0qGAV2AUYOqw97MtZBjbLMN16Xz4vXA==",
+      "sha512": "XOxl9XCl0EiVQt9CtNqBl4YIKTkWzSl4KsbwL/XEIM2lWluZ8QCizDEgZrnGi2io1rwiWSuuflyg9S0boLq5QQ==",
       "type": "package",
       "path": "system.private.datacontractserialization/4.1.1",
       "files": [
@@ -4808,7 +4808,7 @@
       ]
     },
     "System.Runtime.Serialization.Json/4.0.2": {
-      "sha512": "+7DIJhnKYgCzUgcLbVTtRQb2l1M0FP549XFlFkQM5lmNiUBl44AfNbx4bz61xA8PzLtlYwfmif4JJJW7MPPnjg==",
+      "sha512": "IkbAkff6sMY3YfncwicbDW57lYJLbA1R0o6b3hq0U3FeA8TUYik0SqTy8bLvPeqQFTyPD1yuHrHikzzchKgxjQ==",
       "type": "package",
       "path": "system.runtime.serialization.json/4.0.2",
       "files": [
@@ -4866,7 +4866,7 @@
       ]
     },
     "System.Runtime.Serialization.Primitives/4.1.1": {
-      "sha512": "HZ6Du5QrTG8MNJbf4e4qMO3JRAkIboGT5Fk804uZtg3Gq516S7hAqTm2UZKUHa7/6HUGdVy3AqMQKbns06G/cg==",
+      "sha512": "dFO6kCjVPZSzfa1gT6dHoiU0DMALv1QVALekjgu7t9BL4w0WD11V9/WOUpsiFp4pca/P6JJRLrgR5mj5DpPiyw==",
       "type": "package",
       "path": "system.runtime.serialization.primitives/4.1.1",
       "files": [
@@ -5525,7 +5525,7 @@
       ]
     },
     "System.Xml.XmlDocument/4.0.1": {
-      "sha512": "2eZu6IP+etFVBBFUFzw2w6J21DqIN5eL9Y8r8JfJWUmV28Z5P0SNU01oCisVHQgHsDhHPnmq2s1hJrJCFZWloQ==",
+      "sha512": "v/VN+oN4DiRGZS7UADbrzsH3a53eo3q1axfZeD13Pc64Rb0ZZj3lXjf2Zw+MYBgcJZ5By8YOBLV43Mk28zjzew==",
       "type": "package",
       "path": "system.xml.xmldocument/4.0.1",
       "files": [
@@ -5563,7 +5563,7 @@
       ]
     },
     "System.Xml.XmlSerializer/4.0.11": {
-      "sha512": "FrazwwqfIXTfq23mfv4zH+BjqkSFNaNFBtjzu3I9NRmG8EELYyrv/fJnttCIwRMFRR/YKXF1hmsMmMEnl55HGw==",
+      "sha512": "7z8VNsjLhOaSF22PAnZ4N2FtIbjzsM8ga1KFkWMjrtSh8NkC55EAeMHeYh0rG58B62XrMtJXn8dzroGWc4htJQ==",
       "type": "package",
       "path": "system.xml.xmlserializer/4.0.11",
       "files": [
@@ -5858,35 +5858,31 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\edilon.andrade_ext\\.nuget\\packages\\": {},
-    "C:\\Microsoft\\Xamarin\\NuGet\\": {},
+    "C:\\Users\\Inmetrics\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj",
+      "projectUniqueName": "C:\\Users\\Inmetrics\\source\\repos\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj",
       "projectName": "MyFirstUnitTests",
-      "projectPath": "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj",
-      "packagesPath": "C:\\Users\\edilon.andrade_ext\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\edilon.andrade_ext\\source\\repos\\Stone\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\obj\\",
+      "projectPath": "C:\\Users\\Inmetrics\\source\\repos\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests.csproj",
+      "packagesPath": "C:\\Users\\Inmetrics\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Inmetrics\\source\\repos\\xUnitExploring\\MyFirstUnitTests\\MyFirstUnitTests\\MyFirstUnitTests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Microsoft\\Xamarin\\NuGet\\",
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\edilon.andrade_ext\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "C:\\Users\\Inmetrics\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "netcoreapp2.2"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "https://api.nuget.org/v3/index.json": {},
-        "https://artifacts-vip.stone.com.br:8443/artifactory/api/nuget/nuget-prod": {}
+        "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "netcoreapp2.2": {
