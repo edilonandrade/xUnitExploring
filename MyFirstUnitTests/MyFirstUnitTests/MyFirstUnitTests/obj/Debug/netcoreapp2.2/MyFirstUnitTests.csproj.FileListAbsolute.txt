@@ -12,3 +12,17 @@ C:\Users\edilon.andrade_ext\source\repos\Stone\xUnitExploring\MyFirstUnitTests\M
 C:\Users\edilon.andrade_ext\source\repos\Stone\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.AssemblyInfo.cs
 C:\Users\edilon.andrade_ext\source\repos\Stone\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.dll
 C:\Users\edilon.andrade_ext\source\repos\Stone\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.pdb
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\MyFirstUnitTests.deps.json
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\MyFirstUnitTests.runtimeconfig.json
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\MyFirstUnitTests.runtimeconfig.dev.json
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\MyFirstUnitTests.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\bin\Debug\netcoreapp2.2\MyFirstUnitTests.pdb
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.csprojAssemblyReference.cache
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.csproj.CoreCompileInputs.cache
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.AssemblyInfoInputs.cache
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.AssemblyInfo.cs
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.dll
+C:\Users\Inmetrics\source\repos\xUnitExploring\MyFirstUnitTests\MyFirstUnitTests\MyFirstUnitTests\obj\Debug\netcoreapp2.2\MyFirstUnitTests.pdb
