@@ -1,9 +1,0 @@
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.deps.json
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\bin\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csprojAssemblyReference.cache
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.csproj.CoreCompileInputs.cache
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfoInputs.cache
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.AssemblyInfo.cs
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.dll
-C:\Users\Inmetrics\source\repos\xUnitExploring\Alura\TesteDeComponente\Alura.LeilaoOnline\Alura.LeilaoOnline.Core\obj\Debug\netcoreapp2.1\Alura.LeilaoOnline.Core.pdb
