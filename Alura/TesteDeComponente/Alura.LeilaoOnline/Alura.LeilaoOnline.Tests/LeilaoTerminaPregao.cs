@@ -69,7 +69,7 @@ namespace Alura.LeilaoOnline.Tests
             leilao.TerminaPregao();
 
             //Assert
-            Assert.Equal(0, leilao.Ganhador.Valor);
+            Assert.Null(leilao.Ganhador.Cliente);
         }
     }
 }

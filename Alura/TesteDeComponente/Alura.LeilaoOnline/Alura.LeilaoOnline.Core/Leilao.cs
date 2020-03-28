@@ -52,7 +52,7 @@ namespace Alura.LeilaoOnline.Core
                 throw new System.InvalidOperationException("Não é possível terminar o pregão sem que ele tenha começado. Para isso, utilize o método IniciaPregao().");
 
             Ganhador = Lances
-                .DefaultIfEmpty(new Lance(null, 0))
+                .DefaultIfEmpty(new Lance(null, 1))
                 .OrderBy(l => l.Valor)
                 .LastOrDefault();
 
